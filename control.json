@@ -1,5 +1,5 @@
 {
-  "showButton": true,
+  "showButton": false,
   "buttonText": "تحديث جديد",
   "buttonLink": "https://google.com",
   "buttonColor": "#007bff",
